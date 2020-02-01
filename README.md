@@ -5,15 +5,15 @@ How to run
 --------------
 1. Have docker installed in your machine
 2. clone the repo
-  git clone git@github.com:krckrc83/TrafficFlowWebAppDocker.git
+  "git clone git@github.com:krckrc83/TrafficFlowWebAppDocker.git"
 3. run docker compose
-   sudo docker-compose up -d
+   "sudo docker-compose up -d"
 
 Thats's it!! checkout the page at
 http://localhost:8082/
 
 4. To stop the service
-  sudo docker-compose down
+  "sudo docker-compose down"
 
 
 
