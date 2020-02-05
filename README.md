@@ -6,7 +6,7 @@ How to run
 1. Have docker installed in your machine
 2. clone the repo
   "git clone git@github.com:krckrc83/TrafficFlowWebAppDocker.git"
-3. Change workdir  "cd rafficFlowWebAppDocker"
+3. Change workdir  "cd TrafficFlowWebAppDocker"
 3. run docker compose
    "sudo docker-compose up -d"
 
